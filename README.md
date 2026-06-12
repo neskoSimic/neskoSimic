@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Nesko 👋
 
-<!--
-**neskoSimic/neskoSimic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student @ RAF Belgrade
 
-Here are some ideas to get you started:
+🚀 Building Full Stack & Mobile Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦀 Currently learning Rust and exploring Systems Programming
+
+## Tech Stack
+
+### Languages
+
+* Java
+* Python
+* JavaScript
+* TypeScript
+* Kotlin
+* Rust (learning)
+
+### Frontend
+
+* React
+* Vue.js
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express
+* PostgreSQL
+
+### Tools
+
+* Git
+* Docker
+
+## Featured Projects
+
+### News Platform CMS
+
+Full-stack news publishing platform built with React, Node.js and PostgreSQL.
+
+### Showtime
+
+Compose Multiplatform movie application featuring authentication, Room database, favorites/watchlist synchronization and MVI architecture.
+
+### DAG Concurrency System
+
+Concurrent DAG-based build system written in Python, inspired by tools such as Make and Ninja.
+
+## Currently Learning
+
+* Rust
+* Systems Programming
+* Software Architecture
+* Distributed Systems
