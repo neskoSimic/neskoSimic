@@ -32,5 +32,5 @@ Compose Multiplatform movie application with authentication and Room database.
 Concurrent DAG-based build system written in Python.
 ## Contact
 
-* LinkedIn: [https://linkedin.com/in/tvoj-profil](https://www.linkedin.com/in/neskosimic)
+* LinkedIn: [Nesko Simic Linkedin](https://www.linkedin.com/in/neskosimic)
 
